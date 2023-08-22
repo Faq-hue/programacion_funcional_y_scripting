@@ -1,0 +1,7 @@
+  TP02
+
+  1) Empaquetar la funcionalidad en un modulo
+  2) Recibir origen y destino como parametros
+  3) Controlar sintaxis
+  4) Controlar origen que sea archivo y que se pueda leer
+  5) Si el destino existe y es un archivo dar error salvo que se reciba un tercer parametro 'w' que sea opcional que indique el overwrite
